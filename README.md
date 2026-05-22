@@ -149,7 +149,4 @@ var aya = new Developer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-![Profile Views](https://komarev.com/ghpvc/?username=ii20@aya&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
