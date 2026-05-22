@@ -140,21 +140,6 @@ var aya = new Developer
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-
-
----
-
-
-
----
 
 ## 🤝 Connect With Me
 
